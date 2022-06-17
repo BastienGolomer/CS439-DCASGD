@@ -6,3 +6,4 @@ This folder contains all the notebooks we used to conduct our experiments. Their
 =======
 - `regression.ipynb` : This notebook aims to compare SGD and DSCAGD on a simple task of linear regression.
 >>>>>>> ea929eadaeaf828e3b7a246f6be760e6994dd507
+- `nlp.ipynb` : This notebook aims to compare SGD and DSCAGD on a text classification task (Natural Language processing)

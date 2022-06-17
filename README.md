@@ -26,3 +26,7 @@ If you have access to a cluster of GPU, please make sure to make the appropriate
 - gluonnlp
 - shap
 - scikit-plot
+- re
+- gc
+- functools
+- collections
